@@ -1,5 +1,7 @@
 {
   "name": "NyLakoziako",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
